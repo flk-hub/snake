@@ -19,7 +19,7 @@ Welcome to my pet project: a classic Snake game implemented in Go! 🐍
 
 1. **Clone this repository:**
    ```sh
-   git clone https://github.com/flkhub/snake.git
+   git clone https://github.com/flk-hub/snake.git
    cd snake-go-game
    ```
 
