@@ -1,5 +1,3 @@
----
-
 # Snake Game in Go
 
 Welcome to my pet project: a classic Snake game implemented in Go! 🐍
@@ -53,5 +51,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - [raylib](https://www.raylib.com/) - For making game development in C and Go fun and easy!
 - [raylib-go](https://github.com/gen2brain/raylib-go) - Go bindings for raylib.
-
----
