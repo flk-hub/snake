@@ -193,6 +193,11 @@ func main() {
 			}
 		}
 
+		if rl.IsKeyPressed(rl.KeyEscape) {
+			log.Print("Bye bye...")
+			rl.CloseWindow()
+		}
+
 		if gameStatus == Running {
 			// save snake direction
 			if rl.IsKeyDown(rl.KeyLeft) {
